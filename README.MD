@@ -93,7 +93,7 @@ Aplicación de conceptos básicos de DevOps y seguridad web.
 Solución de errores de dependencias, build y rutas en entornos reales.
 
 Recursos
-Repositorio GitHub: https://github.com/KADEBOLH/-pokedex-proyect 
+Repositorio GitHub: https://github.com/ksossa/pokedex.git 
 App desplegada en Azure: https://witty-mushroom-01eb7880f.2.azurestaticapps.net/ 
 PokéAPI: https://pokeapi.co/ 
 Documentación Angular: https://angular.io/ 
